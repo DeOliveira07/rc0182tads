@@ -5,4 +5,4 @@ This is a streamlit app that:
 -retrieve historical data from yahoo finance;
 -plot a time series using plotly
 
-you can see the app [here](https://rc0182tads-37sk3flbk4geg3bcwihcox.streamlit.app/)
+you can see the app [here](https://rc0182tads-vx6jkxu9pr2xrkjykh7tvc.streamlit.app/)
